@@ -37,5 +37,8 @@ This project analyzes Employee/HR data using PowerBI to uncover ratings insights
 - Adjust salaries below the required minimum threshold
 - Standardize bonus allcation across regions
 - Continue using HR Analytics for workforce decision-making
+ ## Dashboard Screenshot
+ [HR Dashboard](HR Data Dashboard Screenshot.png)
+ 
  
 
